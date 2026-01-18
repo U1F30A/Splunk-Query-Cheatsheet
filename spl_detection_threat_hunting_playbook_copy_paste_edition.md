@@ -5,7 +5,7 @@
 ---
 
 ## HOW TO USE
-- Sequential **1–150**, no skips
+- Sequential **1–150**
 - Every query shows **SPL + MITRE ATT&CK**
 - Tune indexes, sourcetypes, thresholds
 
